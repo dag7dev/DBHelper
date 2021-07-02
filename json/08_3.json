@@ -1,0 +1,11 @@
+{
+    "R": "ABCD",
+
+    "F": [
+        "AB -> CD",
+        "BC -> A",
+        "D -> AC"
+    ],
+
+    "keys": "AB, BC, BD"
+}

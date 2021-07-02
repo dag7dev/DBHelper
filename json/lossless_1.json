@@ -1,0 +1,12 @@
+{
+    "R": "ABCDEGH",
+
+    "F": [
+        "A -> CD",
+        "GH -> E",
+        "BD -> GH",
+        "D -> B"
+    ],
+
+    "ro": ["ACD, ACGH, BDEG"]
+}
